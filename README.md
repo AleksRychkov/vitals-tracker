@@ -25,7 +25,7 @@ _Full list of used libraries could be found [here](./includeBuild/configuration/
 
 # FYI
 
-#### Some of the design decisions or code quality maybe questionable. That's ok for such project which main goal is to study something new and to test out different approaches in the development.
+#### Some of the design decisions or code quality are questionable. That's ok for such project which main goal is to study something new and to test out different approaches in the development.
 
 Next repos were used as huge source of inspiration:
 * https://github.com/Digitaler-Impfnachweis/covpass-android
