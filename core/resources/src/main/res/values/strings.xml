@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">vitals-tracker</string>
+
+    <!-- common -->
+    <string name="name">Name</string>
+    <string name="birthdate">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="edit">Edit</string>
+    <string name="no_data">No data</string>
+    <string name="tracked_at">Tracked at:</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_record">New record</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="systolic">Systolic</string>
+    <string name="diastolic">Diastolic</string>
+    <string name="heart_rate">Heart rate</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="generate_report">Generate report</string>
+    <string name="delete">Delete</string>
+    <string name="headache_intensity">Headache intensity</string>
+    <!-- -->
+
+    <!-- calendar -->
+    <string name="JANUARY">January</string>
+    <string name="january">@string/JANUARY</string>
+
+    <string name="FEBRUARY">February</string>
+    <string name="february">@string/FEBRUARY</string>
+
+    <string name="MARCH">March</string>
+    <string name="march">@string/MARCH</string>
+
+    <string name="APRIL">April</string>
+    <string name="april">@string/APRIL</string>
+
+    <string name="MAY">May</string>
+    <string name="may">@string/MAY</string>
+
+    <string name="JUNE">June</string>
+    <string name="june">@string/JUNE</string>
+
+    <string name="JULY">July</string>
+    <string name="july">@string/JULY</string>
+
+    <string name="AUGUST">August</string>
+    <string name="august">August</string>
+
+    <string name="SEPTEMBER">September</string>
+    <string name="september">@string/SEPTEMBER</string>
+
+    <string name="OCTOBER">October</string>
+    <string name="october">@string/OCTOBER</string>
+
+    <string name="NOVEMBER">November</string>
+    <string name="november">@string/NOVEMBER</string>
+
+    <string name="DECEMBER">December</string>
+    <string name="december">@string/DECEMBER</string>
+    <!-- -->
+
+    <!-- gender -->
+    <string name="MALE">Male</string>
+    <string name="male">@string/MALE</string>
+
+    <string name="FEMALE">Female</string>
+    <string name="female">@string/FEMALE</string>
+
+    <string name="OTHER">Other</string>
+    <string name="other">@string/OTHER</string>
+    <!-- -->
+
+    <!-- units -->
+    <string name="unit_cm">cm</string>
+    <string name="unit_grams">grams</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_blood_pressure">mmHg</string>
+    <string name="unit_heart_rate">bpm</string>
+    <!-- -->
+
+    <!-- measurements -->
+    <string name="measurement_blood_pressure_and_heart_rate">Blood pressure and heart rate</string>
+    <string name="measurement_headache">Headaches</string>
+    <string name="measurement_weight">Weight</string>
+    <!-- -->
+
+    <!-- period -->
+    <string name="period_day">D</string>
+    <string name="period_week">W</string>
+    <string name="period_month">M</string>
+    <string name="period_half_year">6M</string>
+    <string name="period_year">Y</string>
+    <string name="period_custom">[]</string>
+    <!-- -->
+
+    <!-- headache area -->
+    <string name="headache_area_all">Whole head</string>
+    <string name="headache_area_left">Left of the head</string>
+    <string name="headache_area_right">Right of the head</string>
+    <string name="headache_area_forehead">Forehead</string>
+    <string name="headache_area_back_head">Back of the head</string>
+    <!-- -->
+
+    <!-- ScreenCreateProfile -->
+    <string name="create_profile_enter_name_hint">Enter your name</string>
+    <string name="create_profile_enter_birthdate_hint">Enter your Date of Birth</string>
+    <string name="create_profile_enter_gender_hint">Enter your gender</string>
+    <string name="create_profile_enter_height_hint">Enter your height</string>
+    <string name="create_profile_enter_weight_hint">Enter your weight</string>
+
+    <string name="create_profile_field_name_is_required">Name is required</string>
+    <string name="create_profile_field_name_already_exists">Profile with such name already exists. Please, enter new name.</string>
+    <!-- -->
+
+    <!-- ScreenDashboard -->
+    <string name="screen_dashboard_summary">Summary</string>
+    <string name="screen_dashboard_empty_screen">Please, press «edit»\nto set up what measurements\nneed to be tracked</string>
+    <string name="screen_dashboard_tracked_measurements">Tracked measurements:</string>
+    <string name="screen_dashboard_rest_measurements">What measurements we can track:</string>
+    <!-- -->
+
+    <!-- AddMeasurement -->
+    <string name="add_measurement_value_empty_error">Value of «%1$s» is required</string>
+    <string name="add_measurement_value_range_error">Value of «%1$s» must be between %2$s and %3$s</string>
+    <!-- -->
+
+    <!-- ScreenCreateHeadaches -->
+    <string name="screen_create_headaches_intensity_desc">How intense was the pain? Rate on a scale of 10, where 10 is the most severe pain in your life.</string>
+    <string name="screen_create_headaches_area">Headache location</string>
+    <string name="screen_create_headaches_area_desc">Whole head was aching?</string>
+    <string name="screen_create_headaches_additional_desc">Add anything important if you want.</string>
+    <!-- -->
+
+</resources>
