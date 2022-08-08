@@ -21,7 +21,7 @@ _Full list of used libraries could be found [here](./includeBuild/configuration/
 
 # Dependencies graph
 
-![Dependencies graph](./readme/dependecies-graph.png)
+![Dependencies graph](./readme/vitals-tracker-dependency-graph.jpeg)
 
 # FYI
 
